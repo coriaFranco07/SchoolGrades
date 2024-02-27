@@ -1,0 +1,7 @@
+El Sistema de Gestión de Calificaciones Educativas es una plataforma diseñada para simplificar y optimizar el proceso de calificación en un entorno educativo. Permite a los maestros ingresar y registrar las calificaciones de los alumnos para cada asignatura de manera eficiente y precisa. Los alumnos tienen acceso a sus calificaciones a través de un sistema de inicio de sesión seguro, lo que les permite monitorear su progreso académico en tiempo real.
+
+Una característica clave del sistema es la determinación automática de si un alumno aprueba o no todas las materias necesarias para avanzar de curso. Si un alumno no aprueba todas las materias, se le notifica de manera clara y se le proporciona orientación sobre los pasos a seguir para mejorar su desempeño académico.
+
+Además, el sistema cuenta con un usuario administrador que tiene privilegios especiales para gestionar usuarios, configurar parámetros del sistema y generar informes y estadísticas sobre el desempeño académico de los alumnos. Una de las características destacadas del sistema es la generación de gráficos y estadísticas que muestran el porcentaje de alumnos aprobados y desaprobados en cada materia, lo que proporciona información valiosa para la toma de decisiones educativas.
+
+En resumen, el Sistema de Gestión de Calificaciones Educativas es una herramienta integral que simplifica la gestión de calificaciones, promueve la transparencia y la comunicación entre maestros, alumnos y administradores, y proporciona insights útiles para mejorar el rendimiento académico de los estudiantes.
